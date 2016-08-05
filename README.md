@@ -1,1 +1,1 @@
-# ws_16_17_seminar-aus-dem-bereich-e-learning
+# Seminar aus dem Bereich E-Learning WS 2016/2017
