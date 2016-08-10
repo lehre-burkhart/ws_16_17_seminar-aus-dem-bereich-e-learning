@@ -21,3 +21,11 @@
 * [How to Make a Khan Academy Video](https://www.youtube.com/watch?v=QZJAhfaZnUA)
 * [YouTube Help](https://support.google.com/youtube#topic=4355266)
 * [6 Modern Methods of e-Learning](https://medium.com/@weareexperience/6-modern-methods-of-e-learning-e083f55fabb3#.basfslflz)
+* [Paper-Prototyping is a waste of time](https://library.gv.com/paper-prototyping-is-a-waste-of-time-353076395187#.8b31s7c2q)
+
+
+http://www.forbes.com/sites/tjmccue/2014/08/27/online-learning-industry-poised-for-107-billion-in-2015/#55fbef1466bc
+
+[Don't go back to school](https://www.amazon.de/dp/B00CKTMUMK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+* Cross device learning (die lernumgebungen werden überall zugänglich sein, auf verschiedenen Geräten)
