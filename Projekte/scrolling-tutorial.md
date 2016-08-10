@@ -23,7 +23,7 @@ Für diesen Kurs verwenden wir die überarbeite Lehrzieltaxonomie von Bloom ([Kr
 
 ## Qualifikationen
 
-| Qualifikation  |  WBT  |   
+| Qualifikation  |  Scrolling Tutorial  |   
 |---|---|
 | Sie verfügen über sehr gute Didaktikkenntnisse. | X  | 
 | Sie verfügen über gute Orthografiekenntnisse und Stilsicherheit in der deutschen Sprache.  |  X |  
@@ -90,8 +90,8 @@ Das Seminar hat 6 ECTS-Punkte. Dies entspricht einem Arbeitsaufwand von 150 Stun
 
 ## Kurse 
 
-* [Intro to HTML and CSS (18h)](https://www.udacity.com/course/intro-to-html-and-css--ud304)
-* [Javascript Basics (18h)](https://www.udacity.com/course/javascript-basics--ud804)
-* [How to Use Git and GitHub (18h)](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+* [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+* [Javascript Basics](https://www.udacity.com/course/javascript-basics--ud804)
+* [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 
