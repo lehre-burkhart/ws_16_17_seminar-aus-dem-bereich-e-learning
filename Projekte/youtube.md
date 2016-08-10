@@ -12,7 +12,7 @@ Für diesen Kurs verwenden wir die überarbeite Lehrzieltaxonomie von Bloom ([Kr
 
 | Knowledge Dimension  | Remember  | Understand  | Apply  |  Analyze |  Evaluate | Create  |
 |---|---|---|---|---|---|---|
-| Factual Knowledge  |   | X  |   |   |   |   |
+| Factual Knowledge  |   |  |   |   |   |   |
 | Conceptual Knowledge |   | X  |   |   |   |   |
 | Procedural Knowledge  |   |   |   |   |   |   |
 | Metacognitive Knowledge  |   |   |   |   |   |   |
@@ -55,6 +55,15 @@ Die Punkte aller Kritieren werden am Ende aufaddiert und ergeben die Note:
 |---	|---	|--- |---	|---	|---	|---	|---	|---	|---	|---	|---	|
 |   Punkte	|  0 |  1	|   2	|   3	|   4	|   5	|   6	|   7	|  8 	|   9	|   10	|
 
+
+## Arbeitsaufwand
+
+Das Seminar hat 6 ECTS-Punkte. Dies entspricht einem Arbeitsaufwand von 150 Stunden. Dieser Kurs erwartet, dass ihr sehr viel Zeit in die Projekte investiert, um das Seminar erfolgreich abzuschließen.
+
+* Anwesenheit im Seminar (30 Stunden)
+* Dokumentation der eigenen Arbeit (15 Stunden)
+* Verfassen des Drehbuchs (30 Stunden)
+* Umsetzung des YouTube Videos (75 Stunden)
 
 ## Beispiele  
 
