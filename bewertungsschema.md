@@ -1,6 +1,6 @@
 # Bewertungsschema
 
-Die Prüfungsform dieses Seminar ist die **mündliche Prüfung**. Die mündliche Prüfung hat zwei Teile. (1) In einem Vortrag beschreibt ihr euer Produkt (10 min); (2) Im Anschluss werde ich euch Fragen zu eurem Produkt stellen (10 min). Die mündliche Prüfung findet in Einzelterminen statt, da es sich um eine individuelle mündliche Note handelt. Das Bewertungsschema der Note findet ihr in der folgenden Tabelle:
+Die Prüfungsform in diesem Seminar ist die **mündliche Prüfung**. Die mündliche Prüfung hat zwei Teile: (1) In einem Vortrag beschreibt ihr euer Produkt (10 min); (2) Im Anschluss werde ich euch Fragen zu eurem Produkt stellen (10 min). Die mündliche Prüfung findet in Einzelterminen statt, da es sich um eine individuelle mündliche Note handelt. Das Bewertungsschema der Note findet ihr in der folgenden Tabelle:
 
 | Index | Kriterium	    |  Erwartung |
 | --- | ------------- |---------------------    | 
@@ -8,7 +8,7 @@ Die Prüfungsform dieses Seminar ist die **mündliche Prüfung**. Die mündliche
 | 2 | Instructional Design  | Die Person schildert die Zielgruppe, deren Vorwissen und deren zentralen Misskonzepte. Die Person leitet ihre Lehrziele anhand der Zielgruppe ab. Die Person erläutert Makro- und Mikroprinzipien und bezieht diese auf das Produkt. Auf Rückfragen zu didaktischen Entscheidungen kann die Person fundiert Stellung beziehen. | 
 | 3 | Vortrag | Die Person integriert das eigene Produkt in den Vortrag. Der Vortrag wird frei gesprochen (Handzettel sind erlaubt). Momente der Überraschung, des Witzes, des Storytelling werden in den Vortrag eingebaut, um die Aufmerksamkeit des Zuhörer zu erhöhen. |
 | 4 | Produkt  | Das Produkt ist voll funktionsfähig, vollständig, online zugänglich und orientiert sich an Layouts qualifizierter Designer. Das Design des Produkts ist konsistent. |
-| 5 |  |  | 
+| 5 | Projektmanagement | Die Person hat das Learning Model Canvas in mindestens 5 Iterationen angepasst. Der Canvas, der Prototyp und das Drehbuch wurde vollständig abgegeben. Die Abgabefristen wurden eingehalten. | 
 
 
 Für jedes Kriterium gibt es drei Bewertungen:
@@ -23,3 +23,10 @@ Die Punkte aller Kritieren werden am Ende aufaddiert und ergeben die Note:
 |  Note 	|  5,0 | 4,0 	|  3,7 	|  3,3 	|  3,0 	|  2,7 	|  2,3 	|  2,0 	|  1,7 	|  1,3 	|  1,0 	|
 |---	|---	|--- |---	|---	|---	|---	|---	|---	|---	|---	|---	|
 |   Punkte	|  0 |  1	|   2	|   3	|   4	|   5	|   6	|   7	|  8 	|   9	|   10	|
+
+
+Das Seminar gilt bestanden, wenn ...
+
+* Das Seminar regelmäßig besucht wurde (maximal 1 Fehltermin)
+* Das Learning Model Canvas, der Prototyp, das Drehbuch und das Produkt abgegeben wurden
+* Die mündliche Prüfung bestanden wurde

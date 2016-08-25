@@ -1,8 +1,14 @@
 # Syllabus
 
-*Seminar*. Das Seminar ist ein Projektseminar. In Kleingruppen entwickelt Ihr E-Learning Produkte zu einem Thema eures Studiums. Die Produkte verlangen viel Eigenengagement. Ich gebe euch das Gerüst, Ihr entwickelt die Produkte. Die Produktentwicklung unterteilt sich in drei Phasen. (1) Ihr entwickelt iterativ ein [Learning Model Canvas](learning_model_canvas.md). Darin stellt ihr Hypothesen über euer Produkt auf, die ihr in mehreren Iterationen anpasst. Nachdem euer Learning Modal Canvas abgeschlossen ist, fertigt ihr einen Power-Point Prototyp eures Produktes an. (2) Im zweiten Schritt schreibt ihr ein Drehbuch eures Produkts. Im Drehbuch schildert ihre alle Bildschirmseiten, Interaktionen, Sprecher- und Instruktionstexte, etc.. (3) Im letzten Teil entwickelt ihr das Produkt in verschiedenen Technologien.
+*Seminar*. Das Seminar ist ein Projektseminar. In Kleingruppen entwickelt Ihr E-Learning Produkte zu einem Thema aus dem Bereich der Bildungswissenschaften. Die Entwicklung der Produkte verlangt viel Eigenengagement. Ich gebe euch das Gerüst, Ihr entwickelt die Produkte. Die Produktentwicklung unterteilt sich in 5 Phasen. 
 
-*Präsenzsitzungen*. Das Seminar wird von mir geleitet. Es gibt drei verschiedene Präsenzsitzungen. In den inhaltlichen Präsenzsitzungen bearbeiten wir Themen, die für euer Projekt relevant sind (z.B. Drehbücher, Learning Model Canvas). In den *Face-to-Face* Meetings trefft ihr euch während der Seminarzeit informell mit mir, um euer Projekt zu besprechen. In der *Freiarbeit* arbeitet Ihr privat an eurem Projekt weiter, d.h es findet keine Präsenzsitzung statt.
+1. **bis 24. Oktober**. Ihr sucht euch ein Team mit 3 Personen. Ihr wählt aus, welches [Projekt](https://github.com/lehre-burkhart/ws_16_17_seminar-aus-dem-bereich-e-learning/tree/master/Projekte) ihr umsetzen möchtet. Ihr wählt ein Thema aus dem Bereich Bildungswissenschaften für euer Produkt aus.
+2. **Oktober bis Dezember**. Ihr entwickelt iterativ ein [E-Learning Model Canvas](learning_model_canvas.md). Darin stellt ihr Hypothesen über euer Produkt auf, die ihr in mehreren Iterationen anpasst. Nachdem euer E-Learning Modal Canvas abgeschlossen ist, fertigt ihr einen Power-Point Prototypen eures Produktes an.
+3. **Dezember bis Januar**. Ihr schreibt ein Drehbuch eures Produkts. Im Drehbuch schildert ihre alle Bildschirmseiten, Interaktionen, Sprecher- und Instruktionstexte, etc.. 
+4. **Januar bis Februar**. Ihr entwickelt das Produkt.
+5. **März**. Ihr stellt euer Produkt in einer mündlichen Prüfung vor.
+
+*Präsenzsitzungen*. Das Seminar wird von mir geleitet. Es gibt drei verschiedene Präsenzsitzungen. In den inhaltlichen Präsenzsitzungen bearbeiten wir Themen, die für euer Projekt relevant sind (z.B. Drehbücher, E-Learning Model Canvas). In den *Face-to-Face* Meetings trefft ihr euch während der Seminarzeit informell mit mir, um euer Projekt zu besprechen. In der *Freiarbeit* arbeitet Ihr privat an eurem Projekt weiter, d.h es findet keine Präsenzsitzung statt.
 
 *Ilias*. Die Literatur und das Forum finden Ihr auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=crs_635755&client_id=unifreiburg).
 
@@ -12,34 +18,19 @@
 
 ## Formalia
 
-Das Seminar umfasst 6 ECTS-Punkte. Dies entspricht 125 Stunden. Die genauen Auflistungen der Stunden findet ihr in den [Projekten](Projekte).
+Das Seminar hat 6 ECTS-Punkte. Dies entspricht einem Arbeitsaufwand von 150 Stunden. Dieser Kurs erwartet, dass ihr viel Zeit in die Projekte investiert, um das Seminar erfolgreich abzuschließen.
 
-*Fehltermine und Bestehen*. Im Wintersemester 2016/2017 habt ihr einen Fehltermin (Präsenzsitzungen und Face-to-Face). Meldet euch bei einem Fehltermin *vorab* per Mail bei mir ab. Das Seminar gilt als bestanden, wenn ihr (1) das Projekt erfolgreich bestanden habt und (2) das Seminar regelmäßig besucht (maximal 1 Fehltermin) habt.
+* Anwesenheit im Seminar (18 Stunden)
+* Iteration des E-Learning Model Canvas (25 Stunden)
+* Verfassen des Drehbuchs (35 Stunden)
+* Umsetzung des Produkts (60 Stunden)
+* Vorbereitung und Durchführung der mündlichen Prüfung (12h)
 
-*Kontakt*. Persönliche Nachrichten schicken ihr mir per [Mail](http://www.ezw.uni-freiburg.de/mitarbeiter/mitarbeiter/burkhart/burkhart). Nachrichten, die für Ihre Kommilitonen von Interesse sind, schreiben ihr in das [Forum](https://ilias.uni-freiburg.de/goto.php?target=frm_634604&client_id=unifreiburg). Nachrichten, die ihr mir per Mail schicken und für die Gruppe von Interesse sind, beantworte ich nicht. Nutzt das [Forum](https://ilias.uni-freiburg.de/goto.php?target=frm_634604&client_id=unifreiburg). E-Mails beantworte ich innerhalb von zwei Werktagen. Wenn ihr mich persönlich treffen möchten, kommt in meine [Sprechstunde](http://www.ezw.uni-freiburg.de/mitarbeiter/mitarbeiter/burkhart/burkhart).
+*Fehltermine und Bestehen*. Im Wintersemester 2016/2017 habt ihr **einen** Fehltermin (Präsenzsitzungen und Face-to-Face). Meldet euch bei einem Fehltermin *vorab* per Mail bei mir ab. Das Seminar gilt als bestanden, wenn ihr (1) das Projekt erfolgreich bestanden habt und (2) das Seminar regelmäßig besucht (maximal 1 Fehltermin) habt.
 
-*Erwartungen*. (1) Seit pünktlich. Ich erwarte, dass wir das Seminar um Viertel nach beginnen.
+*Kontakt*. Persönliche Nachrichten schickt ihr mir per [Mail](http://www.ezw.uni-freiburg.de/mitarbeiter/mitarbeiter/burkhart/burkhart); Nachrichten, die für Ihre Kommilitonen von Interesse sind, schreibt ihr in das [Forum](https://ilias.uni-freiburg.de/goto.php?target=frm_634604&client_id=unifreiburg). Nachrichten, die ihr mir per Mail schicken und für die Gruppe von Interesse sind, beantworte ich nicht. Nutzt das [Forum](https://ilias.uni-freiburg.de/goto.php?target=frm_634604&client_id=unifreiburg). E-Mails beantworte ich innerhalb von zwei Werktagen. Wenn ihr mich persönlich treffen möchten, kommt in meine [Sprechstunde](http://www.ezw.uni-freiburg.de/mitarbeiter/mitarbeiter/burkhart/burkhart).
 
-## Arbeitsaufwand
-
-Das Seminar hat 6 ECTS-Punkte. Dies entspricht einem Arbeitsaufwand von 150 Stunden. Dieser Kurs erwartet, dass ihr sehr viel Zeit in die Projekte investiert, um das Seminar erfolgreich abzuschließen.
-
-* Anwesenheit im Seminar (20 Stunden)
-* Iteration des Learning Model Canvas (25 Stunden)
-* Verfassen des Drehbuchs (30 Stunden)
-* Umsetzung des Produkts (75 Stunden)
-
-## Lehrziele
-
-Für diesen Kurs verwenden wir die überarbeite Lehrzieltaxonomie von Bloom ([Krathwohl (20002)](http://www.unco.edu/cetl/sir/stating_outcome/documents/Krathwohl.pdf)). Diese Taxonomie ist zweidimensional und unterteilt Lehrziele in **kognitive Prozesse** und **Wissensdimensionen**. 
-
-
-| Knowledge Dimension  | Remember  | Understand  | Apply  |  Analyze |  Evaluate | Create  |
-|---|---|---|---|---|---|---|
-| Factual Knowledge  |   |   |   |   |   |   |
-| Conceptual Knowledge |   |   |   |   |   |   |
-| Procedural Knowledge  |   |   |   |   |   |   |
-| Metacognitive Knowledge  |   |   |   |   |   |   |
+*Erwartungen*. Seit pünktlich. Ich erwarte, dass wir das Seminar um Viertel nach beginnen.
 
 ## Termine
 
