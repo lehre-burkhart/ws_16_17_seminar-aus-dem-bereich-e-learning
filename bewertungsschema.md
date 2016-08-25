@@ -1,6 +1,6 @@
 # Bewertungsschema
 
-Die Prüfungsform in diesem Seminar ist die **mündliche Prüfung**. Die mündliche Prüfung hat zwei Teile: (1) In einem Vortrag beschreibt ihr euer Produkt (10 min); (2) Im Anschluss werde ich euch Fragen zu eurem Produkt stellen (10 min). Die mündliche Prüfung findet in Einzelterminen statt, da es sich um eine individuelle mündliche Note handelt. Das Bewertungsschema der Note findet ihr in der folgenden Tabelle:
+Die Prüfungsform in diesem Seminar ist die **mündliche Prüfung**. Die mündliche Prüfung hat zwei Teile: (1) In einem Vortrag beschreibt ihr euer Produkt (10 min); (2) Im Anschluss werde ich euch Fragen zu eurem Produkt stellen (10 min). Die mündliche Prüfung findet in Einzelterminen statt, da ich eine individuelle Leistung prüfen muss. Das Bewertungsschema der mündlichen Prüfung findet ihr in der folgenden Tabelle:
 
 | Index | Kriterium	    |  Erwartung |
 | --- | ------------- |---------------------    | 
@@ -27,6 +27,6 @@ Die Punkte aller Kritieren werden am Ende aufaddiert und ergeben die Note:
 
 Das Seminar gilt bestanden, wenn ...
 
-* Das Seminar regelmäßig besucht wurde (maximal 1 Fehltermin)
-* Das Learning Model Canvas, der Prototyp, das Drehbuch und das Produkt abgegeben wurden
-* Die mündliche Prüfung bestanden wurde
+* das Seminar regelmäßig besucht wurde (maximal 1 Fehltermin)
+* das Learning Model Canvas, der Prototyp, das Drehbuch und das Produkt abgegeben wurden
+* die mündliche Prüfung bestanden wurde
