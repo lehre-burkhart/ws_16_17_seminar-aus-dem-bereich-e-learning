@@ -6,6 +6,8 @@ In diesem Projekt entwickelt ihr in Dreier- oder Vierergruppen **ein** instrukti
 
 ## Qualifikationen
 
+Alle Projekte sprechen Qualifikationen an, die bei Stellen für E-Learning Referenten verlangt werden. Ich habe in der unten stehenden Tabelle die üblichsten Stellenqualifikationen zusammen getragen. Ein Kreuz bennent Qualifikationen, die durch dieses Projekt erreicht werden.
+
 | Qualifikation  |  YouTube Lehrvideo |   
 |---|---|
 | Sie verfügen über sehr gute Didaktikkenntnisse. | X  | 

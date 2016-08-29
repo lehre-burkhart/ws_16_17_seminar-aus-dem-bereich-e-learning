@@ -1,13 +1,13 @@
 # Web Based Training (WBT)
 
-Web Based Trainings ([WBT](https://de.wikipedia.org/wiki/Web_Based_Training)) sind der Klassiker unter den E-Learning Angeboten. Seitdem das Internet für die breite Gesellschaft zugänglich war, wurden Lernangebote über das Web angeboten. Diese Entwicklung scheint heute obsolot. Der Schritt war jedoch entscheidend, da ab diesem Zeitpunkt Lehrangebote von jedem Ort, zu jeder Zeit zugänglich waren. 
-
-WBTs werden in der Regel durch [Autorentools](https://de.wiktionary.org/wiki/Autorentool) erstellt. Autorentools ermöglichen die Erstellung von E-Learning Angeboten ohen Programmierkenntnisse. Sie unterliegen dadurch gewissen Einschränkungen in ihren Möglichkeiten. Typische Autorentools sind [Articulate Storyline](https://de.articulate.com/products/storyline-why.php) und [Captivate](http://www.adobe.com/de/products/captivate.html). 
+Web Based Trainings ([WBT](https://de.wikipedia.org/wiki/Web_Based_Training)) sind der Klassiker unter den E-Learning Angeboten. Seitdem das Internet für die breite Gesellschaft zugänglich war, wurden Lernangebote über das Web angeboten. Diese Entwicklung scheint heute obsolot. WBTs werden in der Regel durch [Autorentools](https://de.wiktionary.org/wiki/Autorentool) erstellt. Autorentools ermöglichen die Erstellung von E-Learning Angeboten ohen Programmierkenntnisse. Sie unterliegen dadurch gewissen Einschränkungen in ihren Möglichkeiten. Typische Autorentools sind [Articulate Storyline](https://de.articulate.com/products/storyline-why.php) und [Captivate](http://www.adobe.com/de/products/captivate.html). 
 
 In diesem Projekt erstellt ihr in Dreier- oder Vierergruppen ein WBT in Captivate 9. Euer WBT behandelt ein ausgewähltes Thema eures Studiums. Das WBTs veröffentlicht ihr am Ende des Semesters auf [GithHub Pages](https://pages.github.com/).
 
 
 ## Qualifikationen
+
+Alle Projekte sprechen Qualifikationen an, die bei Stellen für E-Learning Referenten verlangt werden. Ich habe in der unten stehenden Tabelle die üblichsten Stellenqualifikationen zusammen getragen. Ein Kreuz bennent Qualifikationen, die durch dieses Projekt erreicht werden.
 
 | Qualifikation  |  WBT  |   
 |---|---|
@@ -19,8 +19,6 @@ In diesem Projekt erstellt ihr in Dreier- oder Vierergruppen ein WBT in Captivat
 | Sie kennen den Umgang mit Lern- und Content-Management-Systemen und haben sehr gute Kenntnisse in Autorentools. |  X | 
 | Sie bringen Kenntnisse im Bereich der Webtechnologien mit. |   |   
 | Sie sind in der Lage, bedarfsgerechte Web-Based-Trainings zu konzipieren. | X |
-
-## Beispiele
 
 ## Kurse
 
