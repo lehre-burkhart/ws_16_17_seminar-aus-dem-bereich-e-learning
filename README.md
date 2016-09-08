@@ -16,12 +16,12 @@ Ihr könnt aus vier verschiedenen Projekten auswählen:
 
 1. [Web Based Training](Projekte/web-based-training.md)
 2. [Eigene Webseite](Projekte/webpage.md)
-3. [Web Based Training bei Dormkaba](Projekte/wbt_dormkaba.md)
+3. [Web Based Training bei dormakaba](Projekte/wbt_dormakaba.md)
 4. [YouTube Video](Projekte/youtube.md)
 
-Die Projekte können von mehreren Gruppen besetzt werden. Das Projekt bei Dormkaba ist auf 2 Gruppen beschränkt.
+Die Projekte können von mehreren Gruppen besetzt werden. Das Projekt bei dormakaba ist auf 2 Gruppen beschränkt.
 
-Der Ablauf der Projekte - mit Außname des Projektes bei Dormkaba - gestaltet sich wie folgt:
+Der Ablauf der Projekte - mit Außname des Projektes bei dormakaba - gestaltet sich wie folgt:
 
 1. **bis 24. Oktober**. Ihr sucht euch ein Team mit 3 Personen. Ihr wählt aus, welches [Projekt](https://github.com/lehre-burkhart/ws_16_17_seminar-aus-dem-bereich-e-learning/tree/master/Projekte) ihr umsetzen möchtet. Ihr wählt ein Thema aus dem Bereich Bildungswissenschaften (mit Außnahme eines Projektes) für euer Produkt aus.
 2. **Oktober bis Dezember**. Ihr entwickelt iterativ ein [E-Learning Model Canvas](learning_model_canvas.md). Darin stellt ihr Hypothesen über euer Produkt auf, die ihr in mehreren Iterationen anpasst. Nachdem euer E-Learning Modal Canvas abgeschlossen ist, fertigt ihr einen Power-Point Prototypen eures Produktes an.
@@ -48,7 +48,7 @@ Das Seminar hat 6 ECTS-Punkte. Dies entspricht einem Arbeitsaufwand von 150 Stun
 * Umsetzung des Produkts (60 Stunden)
 * Vorbereitung und Durchführung der mündlichen Prüfung (12h)
 
-### Projekt dormkaba
+### Projekt dormakaba
 
 * Anwesenheit im Seminar (16 Stunden)
 * Planung des Produkts mit dem Auftraggeber (60)
