@@ -5,10 +5,20 @@ Die Prüfungsform in diesem Seminar ist die **mündliche Prüfung**. Die mündli
 | Index | Kriterium	    |  Erwartung |
 | --- | ------------- |---------------------    | 
 | 1 | Learning Model Canvas  | Die Person schildert zentrale Elemente des Canvas. Sie skizziert die wichtigsten Veränderungen des Canvas. Sie geht dabei auf eigene Fehlinterpretationen ein und schildert wie diese entdeckt wurden. Auf Rückfragen kann die Person fundiert Stellung beziehen. | 
-| 2 | Instructional Design  | Die Person schildert die Zielgruppe, deren Vorwissen und deren zentralen Misskonzepte. Die Person leitet ihre Lehrziele anhand der Zielgruppe ab. Die Person erläutert Makro- und Mikroprinzipien und bezieht diese auf das Produkt. Auf Rückfragen zu didaktischen Entscheidungen kann die Person fundiert Stellung beziehen. | 
-| 3 | Vortrag | Die Person integriert das eigene Produkt in den Vortrag. Der Vortrag wird frei gesprochen (Handzettel sind erlaubt). Momente der Überraschung, des Witzes, des Storytelling werden in den Vortrag eingebaut, um die Aufmerksamkeit des Zuhörer zu erhöhen. |
+| 2 | Instructional Design  | Die Person schildert die Zielgruppe, deren Vorwissen und deren zentralen Misskonzepte. Die Person leitet ihre Lehrziele anhand der Zielgruppe ab. Die Person erläutert didaktische Makro- und Mikroprinzipien und bezieht diese auf das Produkt. Auf Rückfragen zu didaktischen Entscheidungen kann die Person fundiert Stellung beziehen. | 
+| 3 | Vortrag | Die Person geht während des Vortrags auf das Produkt ein. Der Vortrag wird frei gesprochen (Handzettel sind erlaubt). |
 | 4 | Produkt  | Das Produkt ist voll funktionsfähig, vollständig, online zugänglich und orientiert sich an Layouts qualifizierter Designer. Das Design des Produkts ist konsistent. |
 | 5 | Projektmanagement | Die Person hat das Learning Model Canvas in mindestens 5 Iterationen angepasst. Der Canvas, der Prototyp und das Drehbuch wurde vollständig abgegeben. Die Abgabefristen wurden eingehalten. | 
+
+Studierende, die ihre Projekt bei **dormkaba** umsetzen, haben ein eigenes Bewertungsschema:
+
+| Index | Kriterium	    |  Erwartung |
+| --- | ------------- |---------------------    | 
+| 1 | Reviewprozess  | Die Person beschreibt die Reviewprozesse mit dem Auftraggeber bei der Erstellung des Produkts. Sie geht dabei auf die Anpassungen und Veränderungen des Produkts aufgrund der Reviews ein. | 
+| 2 | Instructional Design  | Die Person schildert die Zielgruppe und die Lehrziele des Produkts. Die Person leitet ihre Lehrziele anhand der Zielgruppe ab. Die Person erläutert didaktische Makro- und Mikroprinzipien und bezieht diese auf das Produkt. Auf Rückfragen zu didaktischen Entscheidungen kann die Person fundiert Stellung beziehen. | 
+| 3 | Vortrag | Die Person geht während des Vortrags auf das Produkt ein. Der Vortrag wird frei gesprochen (Handzettel sind erlaubt). |
+| 4 | Produkt  | Das Produkt ist voll funktionsfähig und vollständig. |
+| 5 | Projektmanagement | Die Person hat die Deadlines des Auftraggebers eingehalten. Die Erwartungen des Auftraggebers an das Projekt wurden erfüllt.  | 
 
 
 Für jedes Kriterium gibt es drei Bewertungen:
