@@ -38,5 +38,5 @@ Die Punkte aller Kritieren werden am Ende aufaddiert und ergeben die Note:
 Das Seminar gilt bestanden, wenn ...
 
 * das Seminar regelmäßig besucht wurde (maximal 1 Fehltermin)
-* das Learning Model Canvas, der Prototyp, das Drehbuch und das Produkt abgegeben wurden
+* das Learning Model Canvas, der Prototyp, das Drehbuch und das Produkt abgegeben wurden; mit Außname der dormakaba Gruppen
 * die mündliche Prüfung bestanden wurde
