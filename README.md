@@ -59,12 +59,12 @@ Das Seminar hat 6 ECTS-Punkte. Dies entspricht einem Arbeitsaufwand von 150 Stun
 
 * 18.10. Einführung
 * 25.10. E-Learning Model Canvas
-* 08.11. Prototyping
-* 15.11. *Freiarbeit*
-* 22.11. Instructional Design
-* 29.11. *Freiarbeit*
+* 08.11. *Freiarbeit*
+* 15.11. Prototyping
+* 22.11. *Freiarbeit*
+* 25.11. Abgabe E-Learning Model Canvas
+* 29.11. Instructional Design
 * 06.12. Drehbuch
-* 08.12. Abgabe E-Learning Model Canvas
 * 13.12. **Face-to-Face**
 * 20.12. *Freiarbeit*
 * 22.12. Abgabe Prototyp
