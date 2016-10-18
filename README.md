@@ -4,28 +4,26 @@
 
 *Präsenzsitzungen*. Das Seminar wird von mir geleitet. Es gibt drei verschiedene Präsenzsitzungen. In den *inhaltlichen Präsenzsitzungen* bearbeiten wir Themen, die für euer Projekt relevant sind (z.B. Drehbücher, E-Learning Model Canvas). In den *Face-to-Face* Meetings trefft ihr euch während der Seminarzeit informell mit mir, um euer Projekt zu besprechen. In der *Freiarbeit* arbeitet Ihr privat an eurem Projekt weiter, d.h es findet keine Präsenzsitzung statt.
 
-*Ilias*. Die Literatur und das Forum finden Ihr auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=crs_635755&client_id=unifreiburg).
+*Ilias*. Wir verwenden für das Seminar Ilias. Das Forum finden Ihr auf [dort](https://ilias.uni-freiburg.de/goto.php?target=crs_635755&client_id=unifreiburg).
 
-*Ziel*. Am Ende des Seminars habt ihr ein E-Learning Produkt entwickelt haben, dass ihr für Bewerbungen verwenden könnt. Ich habe darauf geachtet, die Projekte an den Qualifikationen üblicher E-Learning Stellen auszurichten. Ich sollt fähig sein, Drehbücher zu schreiben, neue Technologien kennen lernen und diese didaktisch durchdacht umzusetzen.
+*Ziel*. Ich möchte, dass ihr nach dem Seminar in der Lage seid, selbstständig kleine E-Learning Umgebungen zu erstellen,  die mit hoher Wahrscheinlichkeit angestrebte Lehrziele für eine definierte Zielgruppe erreichen.
 
 *Relevanz*. E-Learning einer der [größsten Berufsfeldern](http://www.forbes.com/sites/tjmccue/2014/08/27/online-learning-industry-poised-for-107-billion-in-2015/#55fbef1466bc) in den Bildungswissenschaften. Durch die technologischen Entwicklungen finden immer mehr Lehrangebote digital statt. Das Seminar bereitet euch auf dieses Berufsfeld vor.
 
 ## Projekte
 
-Ihr könnt aus vier verschiedenen Projekten auswählen:
+Ihr könnt aus drei verschiedenen Projekten auswählen:
 
 1. [Web Based Training](Projekte/web-based-training.md)
 2. [Eigene Webseite](Projekte/webpage.md)
-3. [Web Based Training bei dormakaba](Projekte/wbt_dormakaba.md)
-4. [YouTube Video](Projekte/youtube.md)
+3. [YouTube Video](Projekte/youtube.md)
 
-Die Projekte können von mehreren Gruppen besetzt werden. Das Projekt bei dormakaba ist auf 2 Gruppen beschränkt.
+Der Ablauf der Projekte  gestaltet sich wie folgt:
 
-Der Ablauf der Projekte - mit Außname des Projektes bei dormakaba - gestaltet sich wie folgt:
-
-1. **bis 24. Oktober**. Ihr sucht euch ein Team mit 3 Personen. Ihr wählt aus, welches [Projekt](https://github.com/lehre-burkhart/ws_16_17_seminar-aus-dem-bereich-e-learning/tree/master/Projekte) ihr umsetzen möchtet. Ihr wählt ein Thema aus dem Bereich Bildungswissenschaften (mit Außnahme eines Projektes) für euer Produkt aus.
-2. **Oktober bis Dezember**. Ihr entwickelt iterativ ein [E-Learning Model Canvas](learning_model_canvas.md). Darin stellt ihr Hypothesen über euer Produkt auf, die ihr in mehreren Iterationen anpasst. Nachdem euer E-Learning Modal Canvas abgeschlossen ist, fertigt ihr einen Power-Point Prototypen eures Produktes an.
-3. **Dezember bis Januar**. Ihr schreibt ein Drehbuch eures Produkts. Im Drehbuch schildert ihre alle Bildschirmseiten, Interaktionen, Sprecher- und Instruktionstexte, etc.. 
+1. **bis 24. Oktober 2016**. Ihr sucht euch ein Team mit 4 Personen. Ihr wählt aus, welches [Projekt](https://github.com/lehre-burkhart/ws_16_17_seminar-aus-dem-bereich-e-learning/tree/master/Projekte) ihr umsetzen möchtet. Ihr wählt ein Thema aus dem Bereich Bildungswissenschaften für euer Produkt aus.
+2. **November 2016**. Ihr entwickelt iterativ ein [E-Learning Model Canvas](learning_model_canvas.md). Darin stellt ihr Hypothesen über euer Produkt auf, die ihr in mehreren Iterationen anpasst. 
+2. **November bis Dezember 2016**. Nachdem euer E-Learning Modal Canvas abgeschlossen ist, fertigt ihr einen Power-Point Prototypen eures Produktes an.
+3. **Dezember 2016 bis Januar 2017**. Ihr schreibt ein Drehbuch eures Produkts. Im Drehbuch schildert ihre alle Bildschirmseiten, Interaktionen, Sprecher- und Instruktionstexte, etc.. 
 4. **Januar bis Februar**. Ihr entwickelt das Produkt.
 5. **März**. Ihr stellt euer Produkt in einer mündlichen Prüfung vor.
 
@@ -39,8 +37,6 @@ Der Ablauf der Projekte - mit Außname des Projektes bei dormakaba - gestaltet s
 
 Das Seminar hat 6 ECTS-Punkte. Dies entspricht einem Arbeitsaufwand von 150 Stunden. Dieser Kurs erwartet, dass ihr viel Zeit in die Projekte investiert, um das Seminar erfolgreich abzuschließen.
 
-### Projekte 1, 2 und 4
-
 * Anwesenheit im Seminar (18 Stunden)
 * Iteration des E-Learning Model Canvas (20 Stunden)
 * Verfassen des Drehbuchs (25 Stunden)
@@ -48,12 +44,6 @@ Das Seminar hat 6 ECTS-Punkte. Dies entspricht einem Arbeitsaufwand von 150 Stun
 * Umsetzung des Produkts (60 Stunden)
 * Vorbereitung und Durchführung der mündlichen Prüfung (12h)
 
-### Projekt dormakaba
-
-* Anwesenheit im Seminar (16 Stunden)
-* Planung des Produkts mit dem Auftraggeber (60)
-* Umsetzung des Produkts (62 Stunden)
-* Vorbereitung und Durchführung der mündlichen Prüfung (12h)
 
 ## Termine
 
