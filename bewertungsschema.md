@@ -3,7 +3,7 @@
 Die Prüfungsform in diesem Seminar ist die **mündliche Prüfung**. Die mündliche Prüfung hat zwei Teile: (1) In einem Vortrag beschreibt ihr euer Produkt (10 min); (2) Im Anschluss werde ich euch Fragen zu eurem Produkt stellen (10 min). Die mündliche Prüfung findet in Einzelterminen statt, da ich eine individuelle Leistung prüfen muss. Das Bewertungsschema der mündlichen Prüfung findet ihr in der folgenden Tabelle:
 
 | Index | Punkte | Kriterium	    |  Erwartung |
-| --- | ------------- |---------------------    | 
+| --- | --- | ------------- |---------------------    | 
 | 1 | Learning Model Canvas  | 2 | Die Person schildert zentrale Elemente des Canvas. Sie skizziert die wichtigsten Veränderungen des Canvas. Sie geht dabei auf eigene Fehlinterpretationen ein und schildert wie diese entdeckt wurden. Auf Rückfragen kann die Person fundiert Stellung beziehen. | 
 | 2 | Instructional Design  | 3 | Die Person schildert die Zielgruppe, deren Vorwissen und deren zentralen Misskonzepte. Die Person leitet ihre Lehrziele anhand der Zielgruppe ab. Die Person erläutert didaktische Makro- und Mikroprinzipien und bezieht diese auf das Produkt. Auf Rückfragen zu didaktischen Entscheidungen kann die Person fundiert Stellung beziehen. | 
 | 3 | Vortrag | 1 | Die Person geht während des Vortrags auf das Produkt ein. Der Vortrag wird frei gesprochen (Handzettel sind erlaubt). |
